@@ -1,2 +1,2 @@
-# First_project_test
+# Fraud detection
 Test project done first time for understanding git up
